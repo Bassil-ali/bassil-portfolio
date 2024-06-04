@@ -1,0 +1,27 @@
+[16-May-2022 18:35:06 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:35:06 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:35:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:41:34 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:41:34 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:41:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:45:50 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:45:50 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:45:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:46:00 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:46:00 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:46:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:55:09 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:55:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/movies.app/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:56:50 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:56:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/movies.app/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:58:05 UTC] PHP Warning:  require(/home/bassilal/public_html/movies.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/movies.app/public/index.php on line 34
+[16-May-2022 18:58:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/movies.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/movies.app/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bassilal/public_html/movies.app/public/index.php on line 34

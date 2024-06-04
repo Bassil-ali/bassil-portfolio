@@ -1,0 +1,106 @@
+[16-May-2022 19:02:52 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:02:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:08:49 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:08:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:11:21 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:11:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:12:30 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:12:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:19:17 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:19:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:25:42 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:25:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:29:31 UTC] PHP Warning:  require(/home/bassilal/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bassilal/public_html/public/index.php on line 24
+[16-May-2022 19:29:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bassilal/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bassilal/public_html/public/index.php:24
+Stack trace:
+#0 /home/bassilal/public_html/server.php(21): require_once()
+#1 {main}
+  thrown in /home/bassilal/public_html/public/index.php on line 24
+[05-May-2024 17:27:35 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/bassilal/public_html/vendor/composer/ClassLoader.php(476): include('/home/bassilal/...')
+#2 /home/bassilal/public_html/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#3 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/bassilal/public_html/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 /home/bassilal/public_html/server.php(21): require_once('/home/bassilal/...')
+#13 {main} in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[05-May-2024 17:28:00 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/bassilal/public_html/vendor/composer/ClassLoader.php(476): include('/home/bassilal/...')
+#2 /home/bassilal/public_html/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#3 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/bassilal/public_html/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#12 /home/bassilal/public_html/server.php(21): require_once('/home/bassilal/...')
+#13 {main} in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[05-May-2024 17:43:36 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/bassilal/public_html/vendor/composer/ClassLoader.php(476): include('/home/bassilal/...')
+#2 /home/bassilal/public_html/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#3 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/bassilal/public_html/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 /home/bassilal/public_html/server.php(21): require_once('/home/bassilal/...')
+#13 {main} in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[05-May-2024 17:43:37 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/bassilal/public_html/vendor/composer/ClassLoader.php(476): include('/home/bassilal/...')
+#2 /home/bassilal/public_html/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#3 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/bassilal/public_html/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 /home/bassilal/public_html/server.php(21): require_once('/home/bassilal/...')
+#13 {main} in /home/bassilal/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
